@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: fr.h3x.updater.Main
+Class-Path: s-update-3.1.0-BETA.jar swinger-1.0.0-BETA.jar
+
+
